@@ -1,0 +1,29 @@
+p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+#conteudo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.1em;
+}
+
+#options {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  margin-right: 80px;
+}
+
+select {
+  margin: 5px;
+}
+
+img {
+  border-radius: 10px;
+}
