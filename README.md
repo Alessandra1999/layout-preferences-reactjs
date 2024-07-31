@@ -15,3 +15,5 @@ Instruções:
 - Consuma o Contexto: Crie um componente LayoutSwitcher.jsx que consuma o contexto LayoutPreferencesContext e permita ao usuário alterar suas preferências de layout.
 
 - Aplique o Layout: Crie um componente StyledComponent.jsx que consuma o contexto LayoutPreferencesContext e aplique as preferências de layout ao seu estilo.
+
+### Você pode acessar através do link: https://alessandra1999.github.io/layout-preferences-reactjs/
